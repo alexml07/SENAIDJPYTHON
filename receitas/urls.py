@@ -5,4 +5,3 @@ urlpatterns = [
     path('', views.home, name="receitas-home"),
     path('receita/', views.receita, name="receitas-receita"),
 ]
-
